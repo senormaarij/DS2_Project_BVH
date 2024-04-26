@@ -2,7 +2,7 @@ import numpy as np
 import sys
 import os
 from bvh.BVH import *
-from utils.obj_functions import *
+from utility.obj_functions import *
 
 
 def create_box(nodelist):
